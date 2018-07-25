@@ -1,0 +1,1 @@
+--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x --list ".\OS_CPU_A.lst" --xref -o ".\obj\OS_CPU_A.o" --depend ".\obj\OS_CPU_A.d" "source\uCOS-II\Port\Port_Cpu\OS_CPU_A.ASM"
